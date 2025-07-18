@@ -22,7 +22,7 @@ This project was designed just to be part of my portfolio as a demonstration of 
 
 ## [PT-BR]
 
-### Este é um projeto em flutter para postar e obter bicos (trabalhos rápidos ou renda extra).
+### Este é um projeto em flutter para obter bicos (trabalhos rápidos ou renda extra).
 
 Este projeto foi criado apenas para fazer parte do meu portfólio como uma demonstração de experiência e aprendizado.
 
