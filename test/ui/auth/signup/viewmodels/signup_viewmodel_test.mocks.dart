@@ -383,4 +383,34 @@ class AppLocalizationsMock extends _i1.Mock implements _i8.AppLocalizations {
             ),
           )
           as String);
+
+  @override
+  String get logout =>
+      (super.noSuchMethod(
+            Invocation.getter(#logout),
+            returnValue: _i6.dummyValue<String>(
+              this,
+              Invocation.getter(#logout),
+            ),
+            returnValueForMissingStub: _i6.dummyValue<String>(
+              this,
+              Invocation.getter(#logout),
+            ),
+          )
+          as String);
+
+  @override
+  String get search =>
+      (super.noSuchMethod(
+            Invocation.getter(#search),
+            returnValue: _i6.dummyValue<String>(
+              this,
+              Invocation.getter(#search),
+            ),
+            returnValueForMissingStub: _i6.dummyValue<String>(
+              this,
+              Invocation.getter(#search),
+            ),
+          )
+          as String);
 }
