@@ -9,7 +9,7 @@ class HomeViewModel {
 
   ValueNotifier<HomeViewState> viewState = ValueNotifier(HomeIdleState());
 
-  void load() async {
+  Future<void> load() async {
     viewState.value = HomeLoadingState();
     final userResult = await authRepository.getLoggedUser();
     userResult.fold((user) {
