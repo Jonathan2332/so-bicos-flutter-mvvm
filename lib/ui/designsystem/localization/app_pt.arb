@@ -10,5 +10,7 @@
   "this_field_cant_be_empty_or_blank": "Este campo não pode ser vazio ou em branco",
   "this_field_requires_a_valid_email": "Este campo requer um e-mail válido",
   "password_mus_be_at_least_characters": "A senha deve ter no minimo 6 caracteres",
-  "passwords_dont_match": "As senhas não correspondem"
+  "passwords_dont_match": "As senhas não correspondem",
+  "logout": "Sair",
+  "search": "Buscar"
 }

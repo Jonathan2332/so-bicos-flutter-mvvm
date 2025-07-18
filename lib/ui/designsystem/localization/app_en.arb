@@ -10,5 +10,7 @@
   "this_field_cant_be_empty_or_blank": "This field can't be empty or blank",
   "this_field_requires_a_valid_email": "This field requires a valid email",
   "password_mus_be_at_least_characters": "Password must be at least 6 characters long",
-  "passwords_dont_match": "Passwords don't match"
+  "passwords_dont_match": "Passwords don't match",
+  "logout": "Logout",
+  "search": "Search"
 }
