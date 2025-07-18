@@ -46,4 +46,10 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get passwords_dont_match => 'As senhas não correspondem';
+
+  @override
+  String get logout => 'Sair';
+
+  @override
+  String get search => 'Buscar';
 }
